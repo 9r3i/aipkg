@@ -1,0 +1,18 @@
+{
+    "ext.gz": {
+        "name": "gz",
+        "version": "1.2.0",
+        "type": "ext",
+        "contains": [
+            "gz.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/gz.1.2.0.zip.crypto",
+        "size": 2064,
+        "xsize": 3815
+    }
+}
