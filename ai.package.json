@@ -14,5 +14,21 @@
         "file": "ext\/gz.1.2.0.zip.crypto",
         "size": 2064,
         "xsize": 3815
+    },
+    "ext.zip": {
+        "name": "zip",
+        "version": "1.0.2",
+        "type": "ext",
+        "contains": [
+            "zip.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/zip.1.0.2.zip.crypto",
+        "size": 2432,
+        "xsize": 4280
     }
 }
