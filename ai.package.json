@@ -30,5 +30,21 @@
         "file": "ext\/zip.1.0.2.zip.crypto",
         "size": 2432,
         "xsize": 4280
+    },
+    "lpclient": {
+        "name": "lpclient",
+        "version": "2.1.0",
+        "contains": [
+            "lpClient.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 4,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/lpclient.2.1.0.zip.crypto",
+        "size": 1008,
+        "xsize": 1293
     }
 }
