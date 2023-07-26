@@ -1,0 +1,18 @@
+{
+    "ext.dummy": {
+        "name": "dummy",
+        "version": "0.1.0",
+        "type": "ext",
+        "contains": [
+            "dummy.php"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/dummy.0.1.0.zip.crypto",
+        "size": 464,
+        "xsize": 401
+    }
+}

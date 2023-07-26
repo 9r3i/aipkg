@@ -70,6 +70,16 @@ key must be in lower-case unique name, and for extension package the key must be
 ]
 ```
 
+## privilege code
+### 1 -- public
+all either free or paid users can access and use it
+### 2 -- paid
+only paid users have access and privilege to use it
+### 4 -- private
+only the users who has the private key can use it
+### 8 -- commercial
+only paid users can buy it, and only can be used by user who has bought it
+
 
 # Listing
 ## all list
