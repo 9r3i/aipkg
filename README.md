@@ -201,6 +201,11 @@ $ ai pkg add repository <username>/<repository>/<branch>
 ```
 $ ai pkg add repository 9r3i/apk-builder
 ```
+then install it
+```
+ai install ext.apk
+```
+read more about [apk builder](https://github.com/9r3i/apk-builder)
 
 ## test installed repo
 dont forget to test your extension or library you just installed from your repo.
