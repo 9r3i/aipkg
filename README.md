@@ -1,5 +1,5 @@
 # aipkg
-repo for packages of ai
+repo for packages of ai, read more about [ai system](https://github.com/9r3i/ai)
 
 
 # Host
@@ -87,6 +87,10 @@ to list all packages from the host
 ```
 $ ai pkg ls --installed
 ```
+or with another option
+```
+$ ai pkg installed
+```
 
 ## uninstalled list
 ```
@@ -123,10 +127,32 @@ $ ai pkg remove ext.zip
 this will remove a package, unless its still bound as dependency to another package.
 
 
-# 
+# Upgrade packages
+## check before upgrade
+checking before upgrade all packages with listing upgradable
+```
+$ ai pkg ls --upgradable
+```
+
+## upgrade packages
+```
+$ ai pkg upgrade
+```
+or
+```
+$ ai pkg update
+```
 
 
+# Build package
+## create a package
+...
 
+## prepare
+...
+
+## build
+...
 
 
 
