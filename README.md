@@ -164,7 +164,7 @@ i include some of sample to be learned, so you can make one, put your file in di
 - class must contain constant of class info
 - class must have public method of help
 - method or option must be set as public
-- dependency must be set first as requires constant array
+- dependency must be set first as requires constant array, before the package
 
 ## prepare
 as dummy sample, the contain must be completely done
@@ -203,7 +203,7 @@ $ ai pkg add repository 9r3i/apk-builder
 ```
 then install it
 ```
-ai install ext.apk
+$ ai install ext.apk
 ```
 read more about [apk builder](https://github.com/9r3i/apk-builder)
 
