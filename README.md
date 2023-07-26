@@ -156,15 +156,54 @@ $ ai pkg update
 
 # Build package
 ## create a package
-...
+i include some of sample to be learned, so you can make one, put your file in directory ```src``` of ai, then ```ext``` for extension and ```libs``` for library. requirements are:
+- class name must be the same with file name
+- if using namespace, file must be inside of namespace directory
+- namespace can be called by itself using dot as separation, sample: ```ai dummies.net help```
+- class must contain constant of class version
+- class must contain constant of class info
+- class must have public method of help
+- method or option must be set as public
+- dependency must be set first as requires constant array
 
 ## prepare
-...
+as dummy sample, the contain must be completely done
 
 ## build
-...
+create and ini file, such as ```dummy.ini``` contains:
+```ini
+name=dummy
+version=0.1.0
+type=ext
+contains=dummy.php
+authors="9r3i"
+privilege=1
+```
+and execute in another directory to distribute it, with this command:
+```
+$ ai pkg build dummy
+```
+this command will generate crypto file and package info file ```ai.package.json```
 
 
+## distribution
+to distribute it, you can commit as git repo to github, gitlab or bitbucket.
+
+## install from repo
+```
+$ ai pkg add repository <username>/<repository>/<branch>
+```
+- username is username of git host
+- repository is repo name contains ```ai.package.json```
+- branch is branch name (optional), default: master
+
+### sample
+```
+$ ai pkg add repository 9r3i/apk-builder
+```
+
+## test installed repo
+dont forget to test your extension or library you just installed from your repo.
 
 
 # Closing
