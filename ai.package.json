@@ -80,5 +80,21 @@
         "file": "lib\/appbase.1.0.1.zip.crypto",
         "size": 3056,
         "xsize": 5712
+    },
+    "ext.abl": {
+        "name": "abl",
+        "version": "1.3.2",
+        "type": "ext",
+        "contains": [
+            "abl.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/abl.1.3.2.zip.crypto",
+        "size": 3600,
+        "xsize": 8604
     }
 }
