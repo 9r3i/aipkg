@@ -117,5 +117,22 @@
         "file": "lib\/mserver.1.9.2.0.zip.crypto",
         "size": 100384,
         "xsize": 277350
+    },
+    "sdb": {
+        "name": "sdb",
+        "version": "2.0.7",
+        "contains": [
+            "sdb.ai",
+            "sdbServer.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/sdb.2.0.7.zip.crypto",
+        "size": 14096,
+        "xsize": 55502
     }
 }
