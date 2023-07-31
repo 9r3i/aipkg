@@ -134,5 +134,23 @@
         "file": "lib\/sdb.2.0.7.zip.crypto",
         "size": 14096,
         "xsize": 55502
+    },
+    "ext.sdbc": {
+        "name": "sdbc",
+        "version": "2.0.7.6",
+        "type": "ext",
+        "contains": [
+            "sdbc.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "sdb"
+        ],
+        "file": "ext\/sdbc.2.0.7.6.zip.crypto",
+        "size": 3776,
+        "xsize": 8025
     }
 }
