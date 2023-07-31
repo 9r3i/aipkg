@@ -71,7 +71,8 @@ key must be in lower-case unique name, and for extension package the key must be
 ```
 
 ## privilege code
-### 1 -- public
+these privileges are set to close-source as long as they are compiled by ai itself
+### 1 -- free
 all either free or paid users can access and use it
 ### 2 -- paid
 only paid users have access and privilege to use it
