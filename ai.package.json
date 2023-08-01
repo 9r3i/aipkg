@@ -152,5 +152,22 @@
         "file": "ext\/sdbc.2.0.7.6.zip.crypto",
         "size": 3776,
         "xsize": 8025
+    },
+    "ldb": {
+        "name": "ldb",
+        "version": "1.0.8",
+        "contains": [
+            "ldb.ai",
+            "ldbServer.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/ldb.1.0.8.zip.crypto",
+        "size": 27056,
+        "xsize": 110414
     }
 }
