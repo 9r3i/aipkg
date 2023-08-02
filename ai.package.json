@@ -169,5 +169,23 @@
         "file": "lib\/ldb.1.0.8.zip.crypto",
         "size": 27056,
         "xsize": 110414
+    },
+    "ext.ldbc": {
+        "name": "ldbc",
+        "version": "1.0.8.8",
+        "type": "ext",
+        "contains": [
+            "ldbc.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "ldb"
+        ],
+        "file": "ext\/ldbc.1.0.8.8.zip.crypto",
+        "size": 4288,
+        "xsize": 9269
     }
 }
