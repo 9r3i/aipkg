@@ -187,5 +187,23 @@
         "file": "ext\/ldbc.1.0.8.8.zip.crypto",
         "size": 4288,
         "xsize": 9269
+    },
+    "kdb": {
+        "name": "kdb",
+        "version": "2.5.4",
+        "contains": [
+            "kdb.ai",
+            "kdbTable.ai",
+            "kdbServer.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/kdb.2.5.4.zip.crypto",
+        "size": 23952,
+        "xsize": 89879
     }
 }
