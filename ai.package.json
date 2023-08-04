@@ -205,5 +205,23 @@
         "file": "lib\/kdb.2.5.4.zip.crypto",
         "size": 23952,
         "xsize": 89879
+    },
+    "ext.kdbc": {
+        "name": "kdbc",
+        "version": "2.5.4.5",
+        "type": "ext",
+        "contains": [
+            "kdbc.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 4,
+        "requires": [
+            "kdb"
+        ],
+        "file": "ext\/kdbc.2.5.4.5.zip.crypto",
+        "size": 3824,
+        "xsize": 8469
     }
 }
