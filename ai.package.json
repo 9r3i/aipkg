@@ -216,13 +216,13 @@
         "authors": [
             "9r3i"
         ],
-        "privilege": 4,
+        "privilege": 1,
         "requires": [
             "kdb"
         ],
         "file": "ext\/kdbc.2.5.4.5.zip.crypto",
         "size": 3824,
-        "xsize": 8469
+        "xsize": 8457
     },
     "ucheck": {
         "name": "ucheck",
@@ -233,7 +233,7 @@
         "authors": [
             "9r3i"
         ],
-        "privilege": 4,
+        "privilege": 1,
         "type": "lib",
         "requires": [],
         "file": "lib\/ucheck.1.0.0.zip.crypto",
