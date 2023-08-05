@@ -223,5 +223,21 @@
         "file": "ext\/kdbc.2.5.4.5.zip.crypto",
         "size": 3824,
         "xsize": 8469
+    },
+    "ucheck": {
+        "name": "ucheck",
+        "version": "1.0.0",
+        "contains": [
+            "ucheck.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 4,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/ucheck.1.0.0.zip.crypto",
+        "size": 1696,
+        "xsize": 2715
     }
 }
