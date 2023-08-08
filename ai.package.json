@@ -271,5 +271,29 @@
         "file": "lib\/dload.1.1.0.zip.crypto",
         "size": 3280,
         "xsize": 6122
+    },
+    "cepack": {
+        "name": "cepack",
+        "version": "1.23.8.9",
+        "contains": [
+            "ceHelper.ai",
+            "ceChronoCross.ai",
+            "ceFinalFantasyIX.ai",
+            "ceMonsterRancher2.ai",
+            "ceHarvestMoonBTN.ai",
+            "ceGranTurismo2.ai",
+            "ceAlundra2.ai",
+            "ceHMLOH.ai",
+            "ceTable.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/cepack.1.23.8.9.zip.crypto",
+        "size": 45280,
+        "xsize": 116265
     }
 }
