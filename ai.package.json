@@ -255,5 +255,21 @@
         "file": "lib\/gload.2.2.0.zip.crypto",
         "size": 7056,
         "xsize": 17870
+    },
+    "dload": {
+        "name": "dload",
+        "version": "1.1.0",
+        "contains": [
+            "dload.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/dload.1.1.0.zip.crypto",
+        "size": 3280,
+        "xsize": 6122
     }
 }
