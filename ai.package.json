@@ -295,5 +295,23 @@
         "file": "lib\/cepack.1.23.8.9.zip.crypto",
         "size": 45280,
         "xsize": 116265
+    },
+    "ext.ce": {
+        "name": "ce",
+        "version": "1.2.0",
+        "type": "ext",
+        "contains": [
+            "ce.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "requires": [
+            "cepack"
+        ],
+        "privilege": 1,
+        "file": "ext\/ce.1.2.0.zip.crypto",
+        "size": 4944,
+        "xsize": 13483
     }
 }
