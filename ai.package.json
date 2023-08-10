@@ -313,5 +313,21 @@
         "file": "ext\/ce.1.2.0.zip.crypto",
         "size": 4944,
         "xsize": 13483
+    },
+    "ext.calendar": {
+        "name": "calendar",
+        "version": "1.0.0",
+        "type": "ext",
+        "contains": [
+            "calendar.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/calendar.1.0.0.zip.crypto",
+        "size": 1632,
+        "xsize": 2545
     }
 }
