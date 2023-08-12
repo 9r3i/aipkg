@@ -329,5 +329,27 @@
         "file": "ext\/calendar.1.0.0.zip.crypto",
         "size": 1632,
         "xsize": 2545
+    },
+    "hmlohdb": {
+        "name": "hmlohdb",
+        "version": "1.2.1",
+        "contains": [
+            "hmlohDB.ai",
+            "hmloh\/basic.ini",
+            "hmloh\/cheat.ct",
+            "hmloh\/db.ini",
+            "hmloh\/items.json",
+            "hmloh\/items-mapping.json",
+            "hmloh\/items-name.json"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/hmlohdb.1.2.1.zip.crypto",
+        "size": 50288,
+        "xsize": 272308
     }
 }
