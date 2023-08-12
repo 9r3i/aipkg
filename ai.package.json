@@ -351,5 +351,24 @@
         "file": "lib\/hmlohdb.1.2.1.zip.crypto",
         "size": 50288,
         "xsize": 272308
+    },
+    "ext.hmloh": {
+        "name": "hmloh",
+        "version": "1.8.3",
+        "type": "ext",
+        "contains": [
+            "hmloh.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "cepack",
+            "hmlohdb"
+        ],
+        "file": "ext\/hmloh.1.8.3.zip.crypto",
+        "size": 7808,
+        "xsize": 24406
     }
 }
