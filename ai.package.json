@@ -370,5 +370,21 @@
         "file": "ext\/hmloh.1.8.3.zip.crypto",
         "size": 7808,
         "xsize": 24406
+    },
+    "hmlohsdata": {
+        "name": "hmlohsdata",
+        "version": "1.0.0",
+        "contains": [
+            "hmlohs\/items.json"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/hmlohsdata.1.0.0.zip.crypto",
+        "size": 4992,
+        "xsize": 35292
     }
 }
