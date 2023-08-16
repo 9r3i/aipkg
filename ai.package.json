@@ -386,5 +386,23 @@
         "file": "lib\/hmlohsdata.1.0.0.zip.crypto",
         "size": 4992,
         "xsize": 35292
+    },
+    "ext.hmlohs": {
+        "name": "hmlohs",
+        "version": "1.0.0",
+        "type": "ext",
+        "contains": [
+            "hmlohs.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "hmlohsdata"
+        ],
+        "file": "ext\/hmlohs.1.0.0.zip.crypto",
+        "size": 8464,
+        "xsize": 20575
     }
 }
