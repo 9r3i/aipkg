@@ -12,6 +12,7 @@ these requirements are installed as the extension installed.
 
 ## Installation
 ```
+ai pkg update
 ai install ext.hmloh
 ```
 
@@ -214,8 +215,10 @@ and the output must be like this:
 ```
 +----------------+-------+---+-----+------+------+------+-----+------+----+
 | name           | price | c | pts | bast | seas | time | loc | bait | rk |
-+----------------+-------+---+-----+------+------+------+-----+------+----+       | Alligator Gar  | 11300 | A | 600 |    0 | S    | MAE  | FM  | Good |  5 |
-| Banjar Arowana | 11300 | A | 580 |    0 | F    | AE   | F   | Good |  6 |       | Golden Arowana | 14500 | A | 740 |    0 | F    | AE   | F   | Exce |  3 |
++----------------+-------+---+-----+------+------+------+-----+------+----+
+| Alligator Gar  | 11300 | A | 600 |    0 | S    | MAE  | FM  | Good |  5 |
+| Banjar Arowana | 11300 | A | 580 |    0 | F    | AE   | F   | Good |  6 |
+| Golden Arowana | 14500 | A | 740 |    0 | F    | AE   | F   | Exce |  3 |
 | Arapaima       | 12700 | A | 650 |    0 | AS   | AE   | F   | Dele |  4 |
 +----------------+-------+---+-----+------+------+------+-----+------+----+
 total=34
