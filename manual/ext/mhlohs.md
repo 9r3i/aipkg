@@ -69,8 +69,74 @@ Example:
 There's option and sub-option for this command, arguments are based on the game.
 
 ## view
+there are 8 sub-options:
+
+### top (default)
+this is a default view, the top of data saved, it contains name, birth date and season, time of gameplay, and many more, example:
+```
+[0:4:11:44] Name: Niner
+[52:4] Gender: 1
+[56:4] Birth Season: 0
+[60:4] Birth Date: 3
+
+[64] Timestamp: 749597
+Year: 4
+Season: Summer
+Date: 11
+Day: Tuesday
+Hour: 13
+Minute: 17
+
+[6673] Money: 9940763
+[6665] Stamina Max: 10000000
+[6669] Stamina Value: 9997201
+
+[80:4] Mine Floor: 100
+
+[8442] Realtime: 749597
+Year: 4
+Season: Summer
+Date: 11
+Day: Tuesday
+Hour: 13
+Minute: 17
+
+[8438] Weather: 0 (Sunny)
+[8434] Tomorrow ??: 2 (Rain)
+
+[8430] Location: 8 (House)
+
+[8426] Before #1: 1
+[8422] Before #2: 0
+[8418] Before #3: 0
+[8414] Before #4: 3
+[8410] Before #5: 0
+[8406] Before #6: 1
+[8402] Before #7: 0
+[8398] Before #8: 0
+[8394] Before #9: 0
+
+[8446] After #1: 1024
+[8450] After #2: 768
+[8454] After #3: 512
+[8458] After #4: 4294967040
+[8462] After #5: 20735
+[8466] After #6: 13568
+[8470] After #7: 515072
+[8474] After #8: 0
+[8478] After #9: 0
+
+
+```
+because ```top``` set as default, this sub-option can be passed, like this one:
+```
+ai hmloh view
+```
+
 
 ## edit
+onprogress...
+
 
 ## tto
 
