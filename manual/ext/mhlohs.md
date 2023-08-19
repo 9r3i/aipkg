@@ -22,7 +22,7 @@ Make sure if the saved file ```HMHLSAVEDATA_00``` is in currect working director
 ## Help command
 Just type this command
 ```
-ai hmloh help
+ai hmlohs help
 ```
 and this is the output
 
@@ -130,8 +130,34 @@ Minute: 17
 ```
 because ```top``` set as default, this sub-option can be passed, like this one:
 ```
-ai hmloh view
+ai hmlohs view
 ```
+
+### bag
+this is to view bag values,
+```
+ai hmlohs view bag
+```
+the argument can be a type of item, such as seed, crop, bait or fish.
+```
+ai hmlohs view bag fish
+```
+and the second argument can be matched to some items more specific.
+```
+ai hmlohs view bag fish arowana
+```
+
+### bin
+
+### villagers
+
+### requests
+
+### records
+
+### barn
+
+### breg (barn registry)
 
 
 ## edit
