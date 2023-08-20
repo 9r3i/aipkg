@@ -148,16 +148,34 @@ ai hmlohs view bag fish arowana
 ```
 
 ### bin
+this is to view bin values, works the same as bag with the same argument aswell.
 
 ### villagers
+this is to view villagers relationship status, or haw many note did you make in your relationship. and 1000 is maxed of this value or they have 10 notes on relation.
+```
+ai hmlohs view villagers
+```
 
 ### requests
+this is to view how many requests has been done, and also theres a percentage of the finished requests.
+```
+ai hmlohs view requests
+```
 
 ### records
+this is to view players records, from total of shipment until gifts given.
+```
+ai hmlohs view records
+```
 
 ### barn
+this is to view barn data, all of your animals data.
+```
+ai hmlohs view barn
+```
 
 ### breg (barn registry)
+...
 
 
 ## edit
