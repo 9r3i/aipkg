@@ -69,6 +69,8 @@ Example:
 There's option and sub-option for this command, arguments are based on the game.
 
 ## view
+this view has number of address thats gonna be useful for editing the value in edit section.
+
 there are 8 sub-options:
 
 ### top (default)
@@ -175,11 +177,31 @@ ai hmlohs view barn
 ```
 
 ### breg (barn registry)
-...
+this is a barn registry, which is unfinished option, i still develop this option to be executable.
+```
+ai hmlohs view breg
+```
 
 
 ## edit
-onprogress...
+this is for editing or writing new value on the address.
+```
+ai hmlohs edit <int:addr> [int:value:0] [int:byte:1]
+```
+the address is required, we can gat the address from using view.
+```
+ai hmlohs view bag fence
+```
+we got address of hedge which is 1923 and the byte which is 2.
+
+now we have what what we need to edit value of hedge to 99.
+```
+ai hmlohs edit 1923 99 2
+```
+and we can check again using view.
+```
+ai hmlohs view bag fence
+```
 
 
 ## tto
