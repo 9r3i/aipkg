@@ -205,10 +205,47 @@ ai hmlohs view bag fence
 
 
 ## tto
+tto stands for total time output, this is gonna convert from total time seconds to readable timestamp.
+```
+ai hmlohs tto 749597
+```
+the output is an object of timestamp detail, 
+```
+dataObject Object
+(
+    [year] => 4
+    [season] => Summer
+    [date] => 11
+    [hour] => 13
+    [minute] => 17
+    [day] => Tuesday
+    [seasonInt] => 2
+)
+```
+
 
 ## tti
+tti stands for total time input, this is gonna convert from readable timestamp to seconds.
+```
+ai hmlohs tti [int:year:1] [int:season:1] [int:date:1] [int:hour:6] [int:minute:0]
+```
+example:
+```
+ai hmlohs tti 4 2 11 13 17
+```
+the output will be an int of seconds
+```
+749597
+```
+
 
 ## bulkedit
+this options is for massive editing of values according to addresses.
+```
+ai hmlohs bulkedit <int:from> <int:to> [int:value:0] [int:byte:1] [int:margin:0]
+```
+...onprogress...
+
 
 ## backup
 
