@@ -244,12 +244,23 @@ this options is for massive editing of values according to addresses.
 ```
 ai hmlohs bulkedit <int:from> <int:to> [int:value:0] [int:byte:1] [int:margin:0]
 ```
-...onprogress...
+from  = integer of from address
+to    = integer of to address
+value = integer of value; default: 0
+byte  = integer of byte of value; default: 1
+margin= integer of margin between values; default: 0
 
 
 ## backup
+backup all saved data in current directory, as a zip file.
+```
+ai hmlohs backup
+```
+
 
 ## editstring
+...onprogress...
+
 
 ## edittime
 
