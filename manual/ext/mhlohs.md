@@ -259,11 +259,19 @@ ai hmlohs backup
 
 
 ## editstring
-...onprogress...
+this is to edit string such as name, for example:
+```
+ai hmlohs editstring 0 "Niner"
+```
+name address is ```0``` so it will edit string to Niner.
 
 
 ## edittime
-
+this is to edit time, to edit season simply type:
+```
+ai hmlohs edittime season 3
+```
+then 3 indicate to fall.
 
 
 # Closing
