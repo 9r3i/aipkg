@@ -244,11 +244,11 @@ this options is for massive editing of values according to addresses.
 ```
 ai hmlohs bulkedit <int:from> <int:to> [int:value:0] [int:byte:1] [int:margin:0]
 ```
-from  = integer of from address
-to    = integer of to address
-value = integer of value; default: 0
-byte  = integer of byte of value; default: 1
-margin= integer of margin between values; default: 0
+- from  = integer of from address
+- to    = integer of to address
+- value = integer of value; default: 0
+- byte  = integer of byte of value; default: 1
+- margin= integer of margin between values; default: 0
 
 
 ## backup
@@ -269,9 +269,9 @@ name address is ```0``` so it will edit string to Niner.
 ## edittime
 this is to edit time, to edit season simply type:
 ```
-ai hmlohs edittime season 3
+ai hmlohs edittime season 2
 ```
-then 3 indicate to fall.
+then 2 indicates to summer.
 
 
 # Closing
