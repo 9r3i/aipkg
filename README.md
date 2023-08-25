@@ -1,6 +1,8 @@
 # aipkg
 repo for packages of ai, read more about [ai system](https://github.com/9r3i/ai)
 
+and also read [manual](./manual) for more specific manual
+
 
 # Host
 ## default host
