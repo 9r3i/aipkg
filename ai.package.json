@@ -422,5 +422,21 @@
         "file": "lib\/cmsapi.1.3.2.zip.crypto",
         "size": 7520,
         "xsize": 19947
+    },
+    "drivemapping": {
+        "name": "drivemapping",
+        "version": "1.1.1",
+        "contains": [
+            "driveMapping.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 4,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/drivemapping.1.1.1.zip.crypto",
+        "size": 2912,
+        "xsize": 5393
     }
 }
