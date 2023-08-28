@@ -438,5 +438,23 @@
         "file": "lib\/drivemapping.1.1.1.zip.crypto",
         "size": 2912,
         "xsize": 5393
+    },
+    "ext.drive": {
+        "name": "drive",
+        "version": "1.1.7",
+        "type": "ext",
+        "contains": [
+            "drive.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "drivemapping"
+        ],
+        "file": "ext\/drive.1.1.7.zip.crypto",
+        "size": 2912,
+        "xsize": 5222
     }
 }
