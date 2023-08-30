@@ -456,5 +456,23 @@
         "file": "ext\/drive.1.1.7.zip.crypto",
         "size": 2912,
         "xsize": 5222
+    },
+    "ext.ct": {
+        "name": "ct",
+        "version": "1.1.2",
+        "type": "ext",
+        "contains": [
+            "ct.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "cepack"
+        ],
+        "file": "ext\/ct.1.1.2.zip.crypto",
+        "size": 1712,
+        "xsize": 2751
     }
 }
