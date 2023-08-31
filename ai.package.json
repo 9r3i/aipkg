@@ -474,5 +474,24 @@
         "file": "ext\/ct.1.1.2.zip.crypto",
         "size": 1712,
         "xsize": 2751
+    },
+    "rawcompilerhtml": {
+        "name": "rawcompilerhtml",
+        "version": "1.1.1",
+        "contains": [
+            "rawCompilerHTML.ai",
+            "rawCompilerHTML\/rawCompilerHTML.html",
+            "rawCompilerHTML\/rawCompilerHTML.ini",
+            "rawCompilerHTML\/rawCompilerHTML.js"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/rawcompilerhtml.1.1.1.zip.crypto",
+        "size": 5872,
+        "xsize": 13367
     }
 }
