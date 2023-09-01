@@ -493,5 +493,25 @@
         "file": "lib\/rawcompilerhtml.1.1.1.zip.crypto",
         "size": 5872,
         "xsize": 13367
+    },
+    "ext.compile": {
+        "name": "compile",
+        "version": "1.6.4",
+        "type": "ext",
+        "contains": [
+            "compile.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "drivemapping",
+            "rawcompilerhtml",
+            "mserver"
+        ],
+        "file": "ext\/compile.1.6.4.zip.crypto",
+        "size": 1776,
+        "xsize": 2608
     }
 }
