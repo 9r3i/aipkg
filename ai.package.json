@@ -513,5 +513,21 @@
         "file": "ext\/compile.1.6.4.zip.crypto",
         "size": 1776,
         "xsize": 2608
+    },
+    "ext.oem": {
+        "name": "oem",
+        "version": "1.2.1",
+        "type": "ext",
+        "contains": [
+            "oem.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/oem.1.2.1.zip.crypto",
+        "size": 3408,
+        "xsize": 7416
     }
 }
