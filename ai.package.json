@@ -547,5 +547,21 @@
         "file": "ext\/direnc.1.3.2.zip.crypto",
         "size": 1920,
         "xsize": 3683
+    },
+    "ext.eot": {
+        "name": "eot",
+        "version": "1.0.1",
+        "type": "ext",
+        "contains": [
+            "eot.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/eot.1.0.1.zip.crypto",
+        "size": 1312,
+        "xsize": 1756
     }
 }
