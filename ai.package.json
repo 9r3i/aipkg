@@ -563,5 +563,23 @@
         "file": "ext\/eot.1.0.1.zip.crypto",
         "size": 1312,
         "xsize": 1756
+    },
+    "ext.grlogin": {
+        "name": "grlogin",
+        "version": "1.0.1",
+        "type": "ext",
+        "contains": [
+            "grlogin.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "grlg"
+        ],
+        "file": "ext\/grlogin.1.0.1.zip.crypto",
+        "size": 1264,
+        "xsize": 1820
     }
 }
