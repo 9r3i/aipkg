@@ -581,5 +581,21 @@
         "file": "ext\/grlogin.1.0.1.zip.crypto",
         "size": 1264,
         "xsize": 1820
+    },
+    "ext.htlog": {
+        "name": "htlog",
+        "version": "1.3.1",
+        "type": "ext",
+        "contains": [
+            "htlog.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/htlog.1.3.1.zip.crypto",
+        "size": 2544,
+        "xsize": 4266
     }
 }
