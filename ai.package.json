@@ -613,5 +613,21 @@
         "file": "ext\/icon.1.0.0.zip.crypto",
         "size": 2896,
         "xsize": 5709
+    },
+    "ext.imf": {
+        "name": "imf",
+        "version": "2.8.0",
+        "type": "ext",
+        "contains": [
+            "imf.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 4,
+        "requires": [],
+        "file": "ext\/imf.2.8.0.zip.crypto",
+        "size": 11568,
+        "xsize": 36008
     }
 }
