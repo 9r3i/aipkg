@@ -629,5 +629,21 @@
         "file": "ext\/imf.2.8.0.zip.crypto",
         "size": 11568,
         "xsize": 36008
+    },
+    "rcd": {
+        "name": "rcd",
+        "version": "1.0.0",
+        "contains": [
+            "rcd.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/rcd.1.0.0.zip.crypto",
+        "size": 1200,
+        "xsize": 1528
     }
 }
