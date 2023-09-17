@@ -645,5 +645,23 @@
         "file": "lib\/rcd.1.0.0.zip.crypto",
         "size": 1200,
         "xsize": 1528
+    },
+    "ext.imgx": {
+        "name": "imgx",
+        "version": "1.0.1",
+        "type": "ext",
+        "contains": [
+            "imgx.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 4,
+        "requires": [
+            "rcd"
+        ],
+        "file": "ext\/imgx.1.0.1.zip.crypto",
+        "size": 2144,
+        "xsize": 4193
     }
 }
