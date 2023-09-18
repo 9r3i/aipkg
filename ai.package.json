@@ -663,5 +663,21 @@
         "file": "ext\/imgx.1.0.1.zip.crypto",
         "size": 2144,
         "xsize": 4193
+    },
+    "ext.kwh": {
+        "name": "kwh",
+        "version": "1.2.4",
+        "type": "ext",
+        "contains": [
+            "kwh.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/kwh.1.2.4.zip.crypto",
+        "size": 3216,
+        "xsize": 5980
     }
 }
