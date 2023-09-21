@@ -697,5 +697,21 @@
         "file": "ext\/me.1.18.9140.zip.crypto",
         "size": 8816,
         "xsize": 21307
+    },
+    "ext.msc": {
+        "name": "msc",
+        "version": "1.5.4",
+        "type": "ext",
+        "contains": [
+            "msc.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/msc.1.5.4.zip.crypto",
+        "size": 5344,
+        "xsize": 13276
     }
 }
