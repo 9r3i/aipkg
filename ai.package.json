@@ -713,5 +713,23 @@
         "file": "ext\/msc.1.5.4.zip.crypto",
         "size": 5344,
         "xsize": 13276
+    },
+    "ext.n8ro": {
+        "name": "n8ro",
+        "version": "1.1.2",
+        "type": "ext",
+        "contains": [
+            "n8ro.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 4,
+        "requires": [
+            "ldb"
+        ],
+        "file": "ext\/n8ro.1.1.2.zip.crypto",
+        "size": 2992,
+        "xsize": 5565
     }
 }
