@@ -731,5 +731,28 @@
         "file": "ext\/n8ro.1.1.2.zip.crypto",
         "size": 2992,
         "xsize": 5565
+    },
+    "sseclient": {
+        "name": "sseclient",
+        "version": "1.2.2",
+        "contains": [
+            "sseClient.ai",
+            "sseConsoleClient.ai",
+            "sseData.ai",
+            "sseEvent.ai",
+            "sseRequest.ai",
+            "sseConsoleClientExt\/chat.php",
+            "sseConsoleClientExt\/ssecc.php",
+            "sseConsoleClientExt\/xp-pop-up.wav"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/sseclient.1.2.2.zip.crypto",
+        "size": 16624,
+        "xsize": 41205
     }
 }
