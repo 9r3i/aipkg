@@ -754,5 +754,23 @@
         "file": "lib\/sseclient.1.2.2.zip.crypto",
         "size": 16624,
         "xsize": 41205
+    },
+    "ext.scc": {
+        "name": "scc",
+        "version": "1.2.1",
+        "type": "ext",
+        "contains": [
+            "scc.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "sseclient"
+        ],
+        "file": "ext\/scc.1.2.1.zip.crypto",
+        "size": 4208,
+        "xsize": 10752
     }
 }
