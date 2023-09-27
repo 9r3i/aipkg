@@ -772,5 +772,24 @@
         "file": "ext\/scc.1.2.1.zip.crypto",
         "size": 4208,
         "xsize": 10752
+    },
+    "sseserver": {
+        "name": "sseserver",
+        "version": "2.0.1",
+        "contains": [
+            "sseServer.ai",
+            "sseBullHead.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "sdb"
+        ],
+        "type": "lib",
+        "file": "lib\/sseserver.2.0.1.zip.crypto",
+        "size": 6512,
+        "xsize": 14110
     }
 }
