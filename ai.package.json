@@ -791,5 +791,21 @@
         "file": "lib\/sseserver.2.0.1.zip.crypto",
         "size": 6512,
         "xsize": 14110
+    },
+    "ext.search": {
+        "name": "search",
+        "version": "1.2.3",
+        "type": "ext",
+        "contains": [
+            "search.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/search.1.2.3.zip.crypto",
+        "size": 3008,
+        "xsize": 5875
     }
 }
