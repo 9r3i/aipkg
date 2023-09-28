@@ -807,5 +807,23 @@
         "file": "ext\/search.1.2.3.zip.crypto",
         "size": 3008,
         "xsize": 5875
+    },
+    "ext.server": {
+        "name": "server",
+        "version": "1.5.2",
+        "type": "ext",
+        "contains": [
+            "server.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "mserver"
+        ],
+        "file": "ext\/server.1.5.2.zip.crypto",
+        "size": 4528,
+        "xsize": 12367
     }
 }
