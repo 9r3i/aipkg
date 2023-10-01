@@ -825,5 +825,21 @@
         "file": "ext\/server.1.5.2.zip.crypto",
         "size": 4528,
         "xsize": 12367
+    },
+    "silsilahdata": {
+        "name": "silsilahdata",
+        "version": "1.2.1",
+        "contains": [
+            "silsilahData.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/silsilahdata.1.2.1.zip.crypto",
+        "size": 3072,
+        "xsize": 7985
     }
 }
