@@ -891,5 +891,21 @@
         "file": "lib\/silsilahphoto.1.1.0.zip.crypto",
         "size": 2720,
         "xsize": 5182
+    },
+    "silsilahstore": {
+        "name": "silsilahstore",
+        "version": "1.4.0",
+        "contains": [
+            "silsilahStore.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/silsilahstore.1.4.0.zip.crypto",
+        "size": 6640,
+        "xsize": 22254
     }
 }
