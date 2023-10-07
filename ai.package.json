@@ -907,5 +907,23 @@
         "file": "lib\/silsilahstore.1.4.0.zip.crypto",
         "size": 6640,
         "xsize": 22254
+    },
+    "ext.silsilah": {
+        "name": "silsilah",
+        "version": "1.0.2",
+        "type": "ext",
+        "contains": [
+            "silsilah.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "silsilahdata"
+        ],
+        "file": "ext\/silsilah.1.0.2.zip.crypto",
+        "size": 4928,
+        "xsize": 13665
     }
 }
