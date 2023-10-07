@@ -925,5 +925,21 @@
         "file": "ext\/silsilah.1.0.2.zip.crypto",
         "size": 4928,
         "xsize": 13665
+    },
+    "srt": {
+        "name": "srt",
+        "version": "1.1.0",
+        "contains": [
+            "srt.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/srt.1.1.0.zip.crypto",
+        "size": 2176,
+        "xsize": 4424
     }
 }
