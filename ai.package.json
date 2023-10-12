@@ -1007,5 +1007,21 @@
         "file": "ext\/vcf.1.0.1.zip.crypto",
         "size": 2416,
         "xsize": 4664
+    },
+    "vcoserver": {
+        "name": "vcoserver",
+        "version": "1.4.1",
+        "contains": [
+            "vcos\/vcos.cob.php"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/vcoserver.1.4.1.zip.crypto",
+        "size": 6304,
+        "xsize": 32911
     }
 }
