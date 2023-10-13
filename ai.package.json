@@ -1023,5 +1023,23 @@
         "file": "lib\/vcoserver.1.4.1.zip.crypto",
         "size": 6304,
         "xsize": 32911
+    },
+    "ext.vco": {
+        "name": "vco",
+        "version": "2.1.0",
+        "type": "ext",
+        "contains": [
+            "vco.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "vcoserver"
+        ],
+        "file": "ext\/vco.2.1.0.zip.crypto",
+        "size": 10944,
+        "xsize": 35040
     }
 }
