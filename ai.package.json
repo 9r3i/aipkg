@@ -1041,5 +1041,23 @@
         "file": "ext\/vco.2.1.0.zip.crypto",
         "size": 10944,
         "xsize": 35040
+    },
+    "ext.vg": {
+        "name": "vg",
+        "version": "1.4.5",
+        "type": "ext",
+        "contains": [
+            "vg.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "lpclient"
+        ],
+        "file": "ext\/vg.1.4.5.zip.crypto",
+        "size": 5728,
+        "xsize": 12931
     }
 }
