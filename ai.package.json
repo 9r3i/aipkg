@@ -1078,5 +1078,23 @@
         "file": "lib\/wsclient.2.1.2.zip.crypto",
         "size": 5952,
         "xsize": 12668
+    },
+    "ext.wcc": {
+        "name": "wcc",
+        "version": "1.4.2",
+        "type": "ext",
+        "contains": [
+            "wcc.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [
+            "wsclient"
+        ],
+        "file": "ext\/wcc.1.4.2.zip.crypto",
+        "size": 4640,
+        "xsize": 13256
     }
 }
