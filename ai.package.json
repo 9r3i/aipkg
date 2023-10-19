@@ -1128,5 +1128,21 @@
         "file": "lib\/gallerylight.1.0.4.zip.crypto",
         "size": 2576,
         "xsize": 5001
+    },
+    "grlg": {
+        "name": "grlg",
+        "version": "1.0.1",
+        "contains": [
+            "grLG.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/grlg.1.0.1.zip.crypto",
+        "size": 1536,
+        "xsize": 2137
     }
 }
