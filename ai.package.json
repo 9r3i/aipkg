@@ -1208,5 +1208,21 @@
         "file": "lib\/nextdata.1.2.0.zip.crypto",
         "size": 2688,
         "xsize": 5317
+    },
+    "ext.image": {
+        "name": "image",
+        "version": "2.8.3",
+        "type": "ext",
+        "contains": [
+            "image.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 2,
+        "requires": [],
+        "file": "ext\/image.2.8.3.zip.crypto",
+        "size": 11488,
+        "xsize": 43626
     }
 }
