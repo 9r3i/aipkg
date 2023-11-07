@@ -242,7 +242,7 @@
     },
     "gload": {
         "name": "gload",
-        "version": "2.2.0",
+        "version": "2.2.1",
         "contains": [
             "gload.ai"
         ],
@@ -252,9 +252,9 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/gload.2.2.0.zip.crypto",
-        "size": 7056,
-        "xsize": 17870
+        "file": "lib\/gload.2.2.1.zip.crypto",
+        "size": 7120,
+        "xsize": 17826
     },
     "dload": {
         "name": "dload",
