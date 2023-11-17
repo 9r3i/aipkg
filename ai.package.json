@@ -632,7 +632,7 @@
     },
     "rcd": {
         "name": "rcd",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "contains": [
             "rcd.ai"
         ],
@@ -642,9 +642,9 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/rcd.1.0.0.zip.crypto",
-        "size": 1200,
-        "xsize": 1528
+        "file": "lib\/rcd.1.1.0.zip.crypto",
+        "size": 784,
+        "xsize": 924
     },
     "ext.imgx": {
         "name": "imgx",
