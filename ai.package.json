@@ -1224,5 +1224,21 @@
         "file": "ext\/image.2.8.3.zip.crypto",
         "size": 11488,
         "xsize": 43626
+    },
+    "views": {
+        "name": "views",
+        "version": "1.2.0",
+        "contains": [
+            "views.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/views.1.2.0.zip.crypto",
+        "size": 52304,
+        "xsize": 93478
     }
 }
