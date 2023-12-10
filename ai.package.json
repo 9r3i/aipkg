@@ -99,7 +99,7 @@
     },
     "mserver": {
         "name": "mserver",
-        "version": "1.9.3.0",
+        "version": "1.9.4.0",
         "contains": [
             "mserver.ai",
             "mserverIcon.ai",
@@ -114,9 +114,9 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/mserver.1.9.3.0.zip.crypto",
+        "file": "lib\/mserver.1.9.4.0.zip.crypto",
         "size": 100448,
-        "xsize": 277354
+        "xsize": 277362
     },
     "sdb": {
         "name": "sdb",
