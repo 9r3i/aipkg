@@ -1026,7 +1026,7 @@
     },
     "ext.vco": {
         "name": "vco",
-        "version": "2.1.0",
+        "version": "2.1.1",
         "type": "ext",
         "contains": [
             "vco.ai"
@@ -1038,9 +1038,9 @@
         "requires": [
             "vcoserver"
         ],
-        "file": "ext\/vco.2.1.0.zip.crypto",
-        "size": 10944,
-        "xsize": 35040
+        "file": "ext\/vco.2.1.1.zip.crypto",
+        "size": 10816,
+        "xsize": 35020
     },
     "ext.vg": {
         "name": "vg",
