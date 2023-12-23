@@ -1240,5 +1240,21 @@
         "file": "lib\/views.1.2.0.zip.crypto",
         "size": 52304,
         "xsize": 93478
+    },
+    "ldbx": {
+        "name": "ldbx",
+        "version": "5.0.0",
+        "contains": [
+            "ldbx.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/ldbx.5.0.0.zip.crypto",
+        "size": 4992,
+        "xsize": 15341
     }
 }
