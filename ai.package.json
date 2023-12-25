@@ -1256,5 +1256,21 @@
         "file": "lib\/ldbx.5.0.0.zip.crypto",
         "size": 4992,
         "xsize": 15341
+    },
+    "xdb": {
+        "name": "xdb",
+        "version": "1.0.0",
+        "contains": [
+            "xdb.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/xdb.1.0.0.zip.crypto",
+        "size": 3104,
+        "xsize": 7836
     }
 }
