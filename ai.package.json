@@ -1272,5 +1272,21 @@
         "file": "lib\/xdb.1.0.0.zip.crypto",
         "size": 3104,
         "xsize": 7836
+    },
+    "tdb": {
+        "name": "tdb",
+        "version": "1.0.0",
+        "contains": [
+            "tdb.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/tdb.1.0.0.zip.crypto",
+        "size": 2112,
+        "xsize": 4340
     }
 }
