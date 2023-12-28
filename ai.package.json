@@ -1259,9 +1259,9 @@
     },
     "xdb": {
         "name": "xdb",
-        "version": "1.0.0",
+        "version": "2.0.0",
         "contains": [
-            "xdb.ai"
+            "mdb.ai"
         ],
         "authors": [
             "9r3i"
@@ -1269,9 +1269,9 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/xdb.1.0.0.zip.crypto",
-        "size": 3104,
-        "xsize": 7836
+        "file": "lib\/xdb.2.0.0.zip.crypto",
+        "size": 1984,
+        "xsize": 3664
     },
     "tdb": {
         "name": "tdb",
