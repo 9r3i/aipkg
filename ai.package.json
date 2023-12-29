@@ -1320,5 +1320,21 @@
         "file": "lib\/xdb.1.0.0.zip.crypto",
         "size": 3104,
         "xsize": 7836
+    },
+    "fdb": {
+        "name": "fdb",
+        "version": "1.0.0",
+        "contains": [
+            "fdb.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/fdb.1.0.0.zip.crypto",
+        "size": 3120,
+        "xsize": 7320
     }
 }
