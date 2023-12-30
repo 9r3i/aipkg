@@ -1336,5 +1336,22 @@
         "file": "lib\/fdb.1.0.0.zip.crypto",
         "size": 3120,
         "xsize": 7320
+    },
+    "eva": {
+        "name": "eva",
+        "version": "1.0.0",
+        "contains": [
+            "eva.ai",
+            "evacaller.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/eva.1.0.0.zip.crypto",
+        "size": 15280,
+        "xsize": 44146
     }
 }
