@@ -1353,5 +1353,22 @@
         "file": "lib\/eva.1.0.0.zip.crypto",
         "size": 15040,
         "xsize": 44898
+    },
+    "faced": {
+        "name": "faced",
+        "version": "1.0.0",
+        "contains": [
+            "faced.ai",
+            "facedget.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "type": "lib",
+        "requires": [],
+        "file": "lib\/faced.1.0.0.zip.crypto",
+        "size": 2240,
+        "xsize": 3775
     }
 }
