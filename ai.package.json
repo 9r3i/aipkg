@@ -1365,8 +1365,12 @@
             "9r3i"
         ],
         "privilege": 1,
+        "requires": [
+            "eva",
+            "fdb",
+            "xdb"
+        ],
         "type": "lib",
-        "requires": [],
         "file": "lib\/faced.1.0.0.zip.crypto",
         "size": 2240,
         "xsize": 3775
