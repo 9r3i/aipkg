@@ -666,7 +666,7 @@
     },
     "ext.kwh": {
         "name": "kwh",
-        "version": "1.2.4",
+        "version": "1.2.5",
         "type": "ext",
         "contains": [
             "kwh.ai"
@@ -676,9 +676,9 @@
         ],
         "privilege": 1,
         "requires": [],
-        "file": "ext\/kwh.1.2.4.zip.crypto",
-        "size": 3216,
-        "xsize": 5980
+        "file": "ext\/kwh.1.2.5.zip.crypto",
+        "size": 3072,
+        "xsize": 5856
     },
     "ext.me": {
         "name": "me",
