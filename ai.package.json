@@ -1374,5 +1374,21 @@
         "file": "lib\/faced.1.0.0.zip.crypto",
         "size": 2240,
         "xsize": 3775
+    },
+    "ext.clonew": {
+        "name": "clonew",
+        "version": "1.0.0",
+        "type": "ext",
+        "contains": [
+            "clonew.ai"
+        ],
+        "authors": [
+            "9r3i"
+        ],
+        "privilege": 1,
+        "requires": [],
+        "file": "ext\/clonew.1.0.0.zip.crypto",
+        "size": 5536,
+        "xsize": 14367
     }
 }
