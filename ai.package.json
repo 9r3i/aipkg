@@ -1339,7 +1339,7 @@
     },
     "eva": {
         "name": "eva",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "contains": [
             "eva.ai",
             "evacaller.ai"
@@ -1350,9 +1350,9 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/eva.1.0.0.zip.crypto",
-        "size": 15040,
-        "xsize": 44898
+        "file": "lib\/eva.1.0.1.zip.crypto",
+        "size": 15056,
+        "xsize": 44954
     },
     "faced": {
         "name": "faced",
