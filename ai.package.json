@@ -155,7 +155,7 @@
     },
     "ldb": {
         "name": "ldb",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "contains": [
             "ldb.ai",
             "ldbServer.ai"
@@ -166,9 +166,9 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/ldb.1.1.0.zip.crypto",
-        "size": 27088,
-        "xsize": 110378
+        "file": "lib\/ldb.1.1.1.zip.crypto",
+        "size": 26432,
+        "xsize": 110538
     },
     "ext.ldbc": {
         "name": "ldbc",
