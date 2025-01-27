@@ -99,7 +99,7 @@
     },
     "mserver": {
         "name": "mserver",
-        "version": "1.9.4.0",
+        "version": "1.9.5.0",
         "contains": [
             "mserver.ai",
             "mserverIcon.ai",
@@ -114,9 +114,9 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/mserver.1.9.4.0.zip.crypto",
-        "size": 100448,
-        "xsize": 277362
+        "file": "lib\/mserver.1.9.5.0.zip.crypto",
+        "size": 100464,
+        "xsize": 277250
     },
     "sdb": {
         "name": "sdb",
@@ -1339,7 +1339,7 @@
     },
     "eva": {
         "name": "eva",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "contains": [
             "eva.ai",
             "evacaller.ai"
@@ -1350,9 +1350,9 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/eva.1.0.4.zip.crypto",
-        "size": 15520,
-        "xsize": 45322
+        "file": "lib\/eva.1.0.5.zip.crypto",
+        "size": 15488,
+        "xsize": 45218
     },
     "faced": {
         "name": "faced",
