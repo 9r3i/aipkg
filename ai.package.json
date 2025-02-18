@@ -99,7 +99,7 @@
     },
     "mserver": {
         "name": "mserver",
-        "version": "1.9.5.0",
+        "version": "1.9.6.0",
         "contains": [
             "mserver.ai",
             "mserverIcon.ai",
@@ -114,7 +114,7 @@
         "privilege": 1,
         "type": "lib",
         "requires": [],
-        "file": "lib\/mserver.1.9.5.0.zip.crypto",
+        "file": "lib\/mserver.1.9.6.0.zip.crypto",
         "size": 100464,
         "xsize": 277250
     },
