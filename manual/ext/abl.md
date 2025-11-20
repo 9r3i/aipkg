@@ -49,8 +49,38 @@ ABL_START="js/start.js"
 ; execute using: ai abl app quran
 ```
 
+## app config file
+sample
+```
+version=622
+namespace=quran6
+title="Quran"
+index="index.html"
+host="https://9r3i.web.id/api/base/"
+method="post"
+
+[style]
+1="css/quran.min.css"
+
+[script]
+1="js/quran.min.js
+
+[module]
+1="js/module/firebase.js"
+
+[constant]
+ABL_START="js/start.js"
+```
+
 ## index
 is creating ```index.html``` file for the production mode.
+```
+ai abl index [string:title] [string:out:index.html] [string:host] [string:method]
+```
+* ```title``` ia string of the title tag in ```index.html```
+* ```out``` is string output, default: ```index.html```
+* ```host``` is string host of appbase library
+* ```mwthod``` is string method of fetching appbase host, default: ```POST```
 
 ## app
 ...
