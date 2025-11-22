@@ -83,7 +83,12 @@ ai abl index [string:title] [string:out:index.html] [string:host] [string:method
 * ```mwthod``` is string method of fetching appbase host, default: ```POST```
 
 ## app
-...
+this method is to compile the app into appbase file, the information in ```config.ini``` file, all files are gathered to compile in to a single file.
+sample command:
+```
+ai abl app config
+```
+this command is gonna get ```config,ini``` information to be generated into an appbase file.
 
 ## mapp
 ...
