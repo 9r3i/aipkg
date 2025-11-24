@@ -91,7 +91,10 @@ ai abl app config
 this command is gonna get ```config,ini``` information to be generated into an appbase file.
 
 ## mapp
-...
+similar to ```app``` this mapp is made for mobile app, compile into a single mobile app.
+```
+ai abl mapp <config.ini>
+```
 
 ## update
 ...
