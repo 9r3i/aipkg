@@ -97,9 +97,7 @@ ai abl mapp <config.ini>
 ```
 
 ## update
-...
-
-
+is the command to update the basic abl version, this is the old school command, the newest version doesnt need this.
 
 # Closing
 That's all there is to it. Alhamdulillaah...
